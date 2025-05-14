@@ -23,3 +23,7 @@ nav {
   text-align:center;
   width: 75%;
 }
+
+.sidebar {
+  border-left: 2px black;
+}

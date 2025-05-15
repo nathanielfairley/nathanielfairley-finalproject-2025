@@ -28,4 +28,5 @@ nav {
   border-left-color: coral;
   border-left-width: 7px;
   overflow-x: scroll;
+  width: 50px;
 }

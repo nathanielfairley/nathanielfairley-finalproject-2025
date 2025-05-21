@@ -19,17 +19,6 @@ nav {
   padding: 10px;
 }
 
-img {
-  text-align:center;
-  width: 75%;
-}
-
-.sidebar {
-  border-left-color: coral;
-  border-left-width: 7px;
-  overflow-x: scroll;
-  width: 50px;
-}
  table {
    margin: 10px;
  }
